@@ -1,0 +1,1 @@
+A minimal [GraphQL](https://graphql.org) and [Rust](https://www.rust-lang.org) server example using [juniper](https://github.com/graphql-rust/juniper) and [rocket](https://github.com/SergioBenitez/Rocket).
